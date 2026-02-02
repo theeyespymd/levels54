@@ -45,6 +45,5 @@ Control without compromise.
 - Nylon 11 Trackball Carrier and power switches
 - Brass Heat Set Inserts
 
-### Default Firmware Map
-
-![Keymap](keymap-drawer/levels54.svg)
+### Default Firmware Keymap
+![Keymap](keymap-drawer/levels.svg)
